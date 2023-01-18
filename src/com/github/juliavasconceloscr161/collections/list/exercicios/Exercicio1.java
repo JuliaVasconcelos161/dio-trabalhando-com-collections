@@ -1,4 +1,4 @@
-package com.github.juliavasconceloscr161.collections.list;
+package com.github.juliavasconceloscr161.collections.list.exercicios;
 
 import java.util.ArrayList;
 import java.util.Iterator;
